@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+/**
+ * 文章主体
+ * @author 徐虎
+ * 
+ */
+#div01 {
+	width: 60%;
+	position: absolute;
+	top: 20%;
+	left: 20%;
+}
+
+#div02 {
+	position: absolute;
+	width: auto;
+}
+
+#p01 {
+	font-size: 18px;
+	text-align: center;
+}
+
+#p02 {
+	text-align: left;
+}
+
+#p03 {
+	text-align: left;
+	font-size: 15px;
+}
+
+#p04 {
+	text-align: right;
+}
+
+#p05 {
+	text-align: left;
+}
+
+#p06 {
+	text-align: left;
+}
+
+#p07 {
+	text-align: left;
+}
+
+#p08 {
+	text-align: left;
+}
+
+#p09 {
+	text-align: left;
+}
+
+#p10 {
+	text-align: left;
+}

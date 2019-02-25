@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/cn/rt/dao/QuestionDao.java=UTF-8
+encoding//src/cn/rt/daoimpl/QuestionDaoImpl.java=UTF-8
+encoding//src/cn/rt/daoimpl/StudentDaoImpl.java=UTF-8
+encoding//src/cn/rt/servlet/QuestionServlet.java=UTF-8
+encoding//src/cn/rt/servlet/StudentServlet.java=UTF-8
+encoding//src/cn/rt/util/jdbc.java=UTF-8

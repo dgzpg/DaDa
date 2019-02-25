@@ -1,0 +1,111 @@
+@charset "utf-8";
+/**
+ * 主页
+ * @author 徐虎
+ * 
+ */
+#div01 {
+	position: absolute;
+	top: 15%;
+	left: 18%;
+	width: 50%;
+	height: 40%
+}
+
+#div02 {
+	position: absolute;
+	top: 15%;
+	left: 70%;
+	width: 25%;
+	height: 40%
+}
+
+#div03 {
+	position: absolute;
+	top: 60%;
+	left: 18%;
+	width: 50%;
+	height: 7%
+}
+
+#div03_01{
+	position:absolute;
+	top:68%;
+	left:18%;
+	width:50%;
+}
+#p01 {
+	position: absolute;
+	top: 68%;
+	left: 18%;
+	width: 50%;
+	height: 15%
+}
+
+#p02 {
+	text-align: left;
+}
+
+#p03 {
+	text-align: left;
+}
+
+#div04 {
+	position: absolute;
+	top: 116%;
+	left: 18%;
+	width: 50%;
+	height: 7%
+}
+#div03_02{
+	position:absolute;
+	top:124%;
+	left:18%;
+	width:50%;
+}
+#p04 {
+	position: absolute;
+	top: 124%;
+	left: 18%;
+	width: 50%;
+	height: 15%
+}
+
+#p05 {
+	text-align: left;
+}
+
+#p06 {
+	text-align: left;
+}
+
+#div05 {
+	position: absolute;
+	top: 60%;
+	left: 70%;
+	width: 25%;
+	height: 7%
+}
+
+#div06 {
+	position: absolute;
+	top: 68%;
+	left: 70%;
+	width: 25%;
+}
+
+#p08 {
+	position: absolute;
+	top: 84%;
+	left: 70%;
+	width: 25%;
+	height: 15%
+}
+
+#p09 {
+	position: absolute;
+	top: 100%;
+	left: 70%;
+	width: 25%;
+	height: 15%
+}

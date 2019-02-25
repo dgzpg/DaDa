@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+/**
+ * 所有文章
+ * @author 徐虎
+ * 
+ */
+#div01 {
+	width: 60%;
+	position: absolute;
+	top: 20%;
+	left: 20%;
+}
+
+#p01 {
+	text-align: center;
+}
+
+#p02 {
+	text-align: left;
+}
+
+#p03 {
+	text-align: left;
+}
+
+#p04 {
+	text-align: left;
+}
+
+#p05 {
+	text-align: left;
+}
+
+#p06 {
+	text-align: left;
+}
+
+#p07 {
+	text-align: left;
+}

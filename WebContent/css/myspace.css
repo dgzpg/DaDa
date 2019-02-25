@@ -1,0 +1,124 @@
+@charset "utf-8";
+/**
+ * 我的空间
+ * @author 徐虎
+ * 
+ */
+#dada {
+	font-size: 32px;
+	color: #228B22;
+	font-family: quicksand;
+}
+
+.div01 {
+	position: absolute;
+	top: 18%;
+	left: 18%;
+	width: 60%;
+	height: 40%
+}
+
+.div01_00 {
+	border: 1px solid #ccc;
+	padding: 6px;
+	border-radius: 16px !important;
+	width: 20%;
+	height: 12%;
+}
+
+.div01_01 {
+	border: 1px solid #ccc;
+	padding: 14px;
+	border-radius: 16px !important;
+	width: 75%;
+	height: 40%;
+}
+
+.div01_02 {
+	border: 1px solid #ccc;
+	padding: 6px;
+	border-radius: 16px !important;
+	left: 77%;
+	width: 8%;
+	height: 12%;
+}
+
+#p01 {
+	text-align: left;
+}
+
+#p02 {
+	text-align: left;
+}
+
+#p03 {
+	text-align: left;
+}
+
+#p04 {
+	text-align: left;
+}
+
+#p05 {
+	text-align: left;
+}
+
+#p06 {
+	text-align: left;
+}
+
+.TopTag {
+	color: #228B22;
+	font-size: 18px;
+}
+
+#ul02 {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 9%;
+	left: 5%;
+	background-color: #f1f1f1;
+	position: fixed;
+	height: 35%;
+	overflow: auto;
+	top: 15%;
+}
+
+.LeftTag {
+	font-size: 18px;
+	color: #228B22;
+}
+
+li a {
+	display: block;
+	color: #f1f1f1;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+
+.LeftTag:focus {
+	background-color: #48D1CC;
+	color: white;
+	text-decoration: none;
+}
+
+li a.active {
+	background-color: #4CAF50;
+	color: white;
+}
+
+li a:hover:not(.active ) {
+	background-color: #48D1CC;
+	color: white;
+	text-decoration: none;
+}
+
+#user_img02 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 15%;
+	left: 18%;
+}

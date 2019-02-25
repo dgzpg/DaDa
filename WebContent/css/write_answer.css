@@ -1,0 +1,51 @@
+@charset "utf-8";
+/**
+ * 写回复
+ * @author 徐虎
+ * 
+ */
+#user_img02 {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 15%;
+	left: 18%;
+}
+
+#div01 {
+	position: absolute;
+	width: 40%;
+	top: 20%;
+	left: 30%;
+	height: 60%
+}
+
+#div01_01 {
+	position: absolute;
+	width: 80%;
+	top: 10%;
+	left: 0%;
+	height: 10%
+}
+
+#div01_02 {
+	position: absolute;
+	width: 20%;
+	top: 10%;
+	left: 80%;
+	height: 10%
+}
+
+#div02 {
+	position: absolute;
+	width: 40%;
+	top: 45%;
+	left: 30%;
+	height: 60%
+}
+#p01:{
+	text-align: left;
+}
+#p02{
+	text-align: left;
+}
